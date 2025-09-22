@@ -9,6 +9,14 @@
 			{
 				"text": "Ecosystem",
 				"url": "https://modulax.org/projects"
+			},
+			{
+				"text": "Contribute",
+				"url": "https://github.com/Modulax-Labs/go-modulax"
+			},
+			{
+				"text": "Submit an issue",
+				"url": "https://github.com/Modulax-Labs/go-modulax/issues"
 			}
 		]
 	},
